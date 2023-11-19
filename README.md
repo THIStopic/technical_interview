@@ -16,23 +16,23 @@ The sides of the pieces are named sequentially, clockwise, starting with the lef
 
 The puzzle file is defined on a text file. A puzzle has a width and a height, which are defined on the first row of the file; then, line by line represents each one of the pieces. For example, this is a 16-piece puzzle:
 
-4 4
-1 4 3 5
-0 5 3 5
-1 5 3 0
-5 4 5 2
-1 5 0 0
-0 5 2 1
-1 0 4 4
-2 4 4 2
-4 5 0 5
-3 2 1 0
-4 0 0 3
-3 0 0 1
-5 5 1 0
-5 0 0 1
-0 4 2 4
-4 5 1 4
+4 4  
+1 4 3 5  
+0 5 3 5  
+1 5 3 0  
+5 4 5 2  
+1 5 0 0  
+0 5 2 1  
+1 0 4 4  
+2 4 4 2  
+4 5 0 5  
+3 2 1 0  
+4 0 0 3  
+3 0 0 1  
+5 5 1 0  
+5 0 0 1  
+0 4 2 4  
+4 5 1 4  
 
 Each piece is numbered sequentially, and the first piece is the piece number 1.
 
