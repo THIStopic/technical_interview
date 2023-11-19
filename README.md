@@ -38,30 +38,30 @@ Each piece is numbered sequentially, and the first piece is the piece number 1.
 
 This is a solution to that puzzle:
 
-5 7 15 11
-9 16 4 3
-13 1 8 10
-14 2 6 12
+5 7 15 11  
+9 16 4 3  
+13 1 8 10  
+14 2 6 12  
 
 The solutions are written using the piece numbers, separated by spaces, and one line per row.
 
 A puzzle could have multiple solutions. For example, this is also a solution for that same puzzle:
 
-5 13 9 14
-2 1 16 7
-6 8 4 15
-12 10 3 11
+5 13 9 14  
+2 1 16 7  
+6 8 4 15  
+12 10 3 11  
 
 Actually, all puzzles will have more than one solution, since you can rotate the solution, for example 180 degrees. For the purpose of this exercise we are not interested in the rotated solutions. With that in mind, the puzzle above has exactly two solutions. Different solutions are represented as below, with a new line in between. These would be the solutions file for the sample puzzle:
 
-5 7 15 11
-9 16 4 3
-13 1 8 10
-14 2 6 12
-5 13 9 14
-2 1 16 7
-6 8 4 15
-12 10 3 11
+5 7 15 11  
+9 16 4 3  
+13 1 8 10  
+14 2 6 12  
+5 13 9 14  
+2 1 16 7  
+6 8 4 15  
+12 10 3 11  
 
 #### Rules:
 
